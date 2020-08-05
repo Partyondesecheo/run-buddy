@@ -267,4 +267,20 @@ section {
 }
 
 
+
 /* Reach out styles end */
+
+/* homepage hero */
+.hero {
+  margin: 20px;
+  background-color: white;
+  font-size: 20px;
+  color: blue;
+}
+
+/* secondary page hero */
+/* these two colors will override the ones above in .hero */
+.hero-secondary {
+  background-color: black;
+  color: red;
+}
